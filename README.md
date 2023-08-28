@@ -3,9 +3,10 @@
 - 🎓 Undergraduate student at IIT Kharagpur
 - 📫 How to reach me: harshitjain0502@gmail.com
 - Portfolio: https://harshit-jain52.github.io/
-
+<hr>
 <p align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=harshit-jain52&count_private=true&show_icons=true&theme=github_dark" alt="harshit-jain52's Github Stats">
+  <img height="175" width="500" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harshit-jain52&layout=compact&langs_count=8&theme=nightowl"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-jain52&layout=compact&theme=github_dark" alt="Top Languages">
+  <img height="175" width="500" src="https://github-readme-stats-eight-theta.vercel.app/api?username=harshit-jain52&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" alt="harshit-jain52's Github Stats"/>
+  
 </p>
