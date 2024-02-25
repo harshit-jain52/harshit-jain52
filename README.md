@@ -1,7 +1,7 @@
 ### Hey there 👋
 
-- 🎓 Undergraduate student at IIT Kharagpur
-- 📫 How to reach me: https://www.linkedin.com/in/harshit-jain-4081a0256/
+- 🎓 Second Year Undergraduate Student at IIT Kharagpur
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/harshit-jain-4081a0256/)
 
 <hr>
 <p align=center>
