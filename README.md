@@ -1,4 +1,4 @@
-### Hey there 👋
+### Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="28px">
 
 - 🎓 Second Year Undergraduate Student at IIT Kharagpur
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/harshit-jain-4081a0256/)
@@ -14,7 +14,7 @@
 </p>
 <hr>
 
-#### Video Rental System | Full Stack Course Project
+#### Video Rental System | MERN Stack Project
 
 <p align=center>
   <a href = "https://github.com/harshit-jain52/VRS-Backend">
