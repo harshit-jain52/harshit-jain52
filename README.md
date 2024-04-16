@@ -12,3 +12,15 @@
     <img height="175" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-jain52&repo=harshit-jain52.github.io&theme=algolia"/>
   </a>
 </p>
+<hr>
+
+#### Video Rental System | Full Stack Course Project
+
+<p align=center>
+  <a href = "https://github.com/harshit-jain52/VRS-Backend">
+    <img height="175" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-jain52&repo=VRS-Backend&theme=algolia"/>
+  </a>
+  <a href = "https://github.com/Cath3dr4l/VRS-Frontend">
+    <img height="175" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Cath3dr4l&repo=VRS-Frontend&theme=algolia"/>
+  </a>
+</p>
