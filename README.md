@@ -8,14 +8,14 @@
 #### Languages
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,go,bash" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,go,bash,dart" />
   </a>
 </p>
 
 #### Tools
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,express,nodejs,mongodb,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,express,nodejs,mongodb,tailwind,flutter,firebase" />
   </a>
 </p>
 <hr>
