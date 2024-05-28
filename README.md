@@ -15,7 +15,7 @@
 #### Tools
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,express,nodejs,mongodb,tailwind,flutter,firebase" />
+    <img src="https://skillicons.dev/icons?i=react,express,nodejs,mongodb,sass,tailwind,flutter,firebase" />
   </a>
 </p>
 <hr>
