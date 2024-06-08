@@ -7,22 +7,18 @@
 
 #### Languages
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,go,bash,dart" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,ts,go,dart,bash" />
 </p>
 
 #### Tools
 <p>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,express,nodejs,mongodb,sass,tailwind,flutter,firebase" />
-  </a>
 </p>
 <hr>
 
 #### Video Rental System | MERN Stack Project
 
-<p align=center>
+<p align="center">
   <a href = "https://github.com/harshit-jain52/VRS-Backend">
     <img height="175" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-jain52&repo=VRS-Backend&show_owner=true&theme=algolia"/>
   </a>
