@@ -1,6 +1,6 @@
 ### Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="28px">
 
-- 🎓 Second Year Undergraduate Student at IIT Kharagpur
+- 🎓 Third Year Undergraduate Student at IIT Kharagpur
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/harshit-jain-4081a0256/)
 - 💻 View my portfolio website [here](https://harshit-jain52.github.io).
 <hr>
