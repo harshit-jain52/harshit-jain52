@@ -12,7 +12,7 @@
 
 #### Tools
 <p>
-    <img src="https://skillicons.dev/icons?i=react,express,nodejs,mongodb,sass,tailwind,flutter,firebase" />
+    <img src="https://skillicons.dev/icons?i=react,express,nodejs,mongodb,sass,tailwind,flutter,firebase,docker" />
 </p>
 <hr>
 
