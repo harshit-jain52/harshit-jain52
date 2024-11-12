@@ -12,7 +12,7 @@
 
 #### Tools
 <p>
-    <img src="https://skillicons.dev/icons?i=react,express,nodejs,mongodb,sass,tailwind,flutter,firebase,docker" />
+    <img src="https://skillicons.dev/icons?i=react,express,nodejs,mongodb,sass,tailwind,flutter,firebase,docker,fastapi" /> <a href="https://hyperdiv.io/" target="_blank"><img src="https://hyperdiv.io/hd-logo-white.svg" width="47vw"/> </a>
 </p>
 <hr>
 
