@@ -14,16 +14,3 @@
 <p>
     <img src="https://skillicons.dev/icons?i=react,express,nodejs,mongodb,sass,tailwind,vercel,flutter,firebase,docker,fastapi" /> <a href="https://hyperdiv.io/" target="_blank"><img src="https://hyperdiv.io/hd-logo-white.svg" width="47vw"/> </a> <a href="https://www.digitalocean.com/" target="_blank"><img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_icon_blue.svg" width="47vw"/> </a>
 </p>
-<p></p>
-<hr>
-
-#### Video Rental System | MERN Stack Project
-
-<p align="center">
-  <a href = "https://github.com/harshit-jain52/VRS-Backend">
-    <img height="175" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-jain52&repo=VRS-Backend&show_owner=true&theme=algolia"/>
-  </a>
-  <a href = "https://github.com/Cath3dr4l/VRS-Frontend">
-    <img height="175" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Cath3dr4l&repo=VRS-Frontend&show_owner=true&theme=algolia"/>
-  </a>
-</p>
