@@ -14,5 +14,18 @@
 #### Tools
 
 <p>
-    <img src="https://skillicons.dev/icons?i=react,express,nodejs,mongodb,sass,tailwind,vercel,flutter,firebase,docker,fastapi" /> <a href="https://hyperdiv.io/" target="_blank"><img src="https://hyperdiv.io/hd-logo-white.svg" width="47vw"/> </a> <a href="https://www.gradio.app/" target="_blank"><img src="./SVGs/gradio-icon-seeklogo.svg" width="47vw"/> </a> <a href="https://www.digitalocean.com/" target="_blank"><img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_icon_blue.svg" width="47vw"/> </a>
+    <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="47vw"/> </a>
+    <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" width="47vw"/> </a>
+    <a href="https://nodejs.org/en" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="47vw"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" width="47vw"/> </a>
+    <a href="https://sass-lang.com/" target="_blank"><img src="https://skillicons.dev/icons?i=sass" width="47vw"/> </a>
+    <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="47vw"/> </a>
+    <a href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" width="47vw"/> </a>
+    <a href="https://flutter.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" width="47vw"/> </a>
+    <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" width="47vw"/> </a>
+    <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="47vw"/> </a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" width="47vw"/> </a>
+    <a href="https://hyperdiv.io/" target="_blank"><img src="https://hyperdiv.io/hd-logo-white.svg" width="47vw"/> </a>
+    <a href="https://www.gradio.app/" target="_blank"><img src="./SVGs/gradio-icon-seeklogo.svg" width="47vw"/> </a>
+    <a href="https://www.digitalocean.com/" target="_blank"><img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_icon_blue.svg" width="47vw"/> </a>
 </p>
