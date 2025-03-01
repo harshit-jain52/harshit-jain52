@@ -25,7 +25,9 @@
     <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" width="47vw"/> </a>
     <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="47vw"/> </a>
     <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" width="47vw"/> </a>
+    <a href="https://flask.palletsprojects.com/en/stable/" target="_blank"><img src="./Icons/flask-square.png" width="47vw"/> </a>
     <a href="https://hyperdiv.io/" target="_blank"><img src="https://hyperdiv.io/hd-logo-white.svg" width="47vw"/> </a>
-    <a href="https://www.gradio.app/" target="_blank"><img src="./SVGs/gradio-icon-seeklogo.svg" width="47vw"/> </a>
+    <a href="https://www.gradio.app/" target="_blank"><img src="./Icons/gradio-icon-seeklogo.svg" width="47vw"/> </a>
     <a href="https://www.digitalocean.com/" target="_blank"><img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_icon_blue.svg" width="47vw"/> </a>
+    <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" width="47vw"/> </a>
 </p>
