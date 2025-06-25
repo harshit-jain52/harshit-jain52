@@ -31,9 +31,3 @@
     <a href="https://www.digitalocean.com/" target="_blank"><img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_icon_blue.svg" width="47vw"/> </a>
     <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" width="47vw"/> </a>
 </p>
-
-#### Setup
-
-<p>
-    <img src="https://skillicons.dev/icons?i=mint,vscode,sublime" />
-</p>
